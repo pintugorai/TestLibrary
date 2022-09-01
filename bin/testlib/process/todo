@@ -1,0 +1,16 @@
+
+Category - processHandeller/processManager
+
+process - kill, status- active, details, 
+
+
+killprocess
+getPid() - windows/linux
+isProcessRunning()
+
+getMemoryUsedByTheProcess(pid)
+getCpuUsedByTheProcess(pid)
+
+
+Note:- Input: pid
+	return - max memory
